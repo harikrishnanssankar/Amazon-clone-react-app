@@ -1,3 +1,19 @@
+This app is a clone of Amazon shopping application. This is biuld using react and firebase.
+
+The homescreen of the amazon clone is as in the picture below.
+There will be guest user
+
+![Screenshot_20210528_222519](https://user-images.githubusercontent.com/70973180/120017705-d1123b80-c003-11eb-9f7b-bd80a2b1f8a5.png)
+
+Users can login or sign-up to this app 
+![Screenshot_20210528_222540](https://user-images.githubusercontent.com/70973180/120018166-67def800-c004-11eb-81d3-0920e64c996d.png)
+
+Users can add items to the cart. Total bill amount will be displayed.
+![Screenshot_20210528_223358](https://user-images.githubusercontent.com/70973180/120018524-e89df400-c004-11eb-871c-30f3754dceda.png)
+
+
+React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
